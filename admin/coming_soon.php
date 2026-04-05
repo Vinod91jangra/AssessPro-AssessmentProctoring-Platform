@@ -57,7 +57,7 @@ h1{font-family:'Syne',sans-serif;font-size:32px;font-weight:700;margin-bottom:12
   
   <h1>Coming Very Very Soon Surely</h1>
 
-  <div class="status">⏳ Developers are Working upon it</div>
+  <div class="status">⏳ Under Developing Phase</div>
   
   <p class="subtitle">
     This feature is currently under development. We're working hard to bring you an amazing experience!
