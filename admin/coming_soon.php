@@ -1,4 +1,6 @@
+
 <?php
+//coming soon page
 // admin/coming_soon.php
 require_once '../config.php';
 requireAdmin();
@@ -53,7 +55,7 @@ h1{font-family:'Syne',sans-serif;font-size:32px;font-weight:700;margin-bottom:12
 <div class="container">
   <div class="icon">🚀</div>
   
-  <h1>Coming Very Soon Surely</h1>
+  <h1>Coming Very Very Soon Surely</h1>
 
   <div class="status">⏳ Developers are Working upon it</div>
   
