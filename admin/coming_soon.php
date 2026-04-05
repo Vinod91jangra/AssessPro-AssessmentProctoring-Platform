@@ -1,4 +1,6 @@
+
 <?php
+//coming soon page
 // admin/coming_soon.php
 require_once '../config.php';
 requireAdmin();
